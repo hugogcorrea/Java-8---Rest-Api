@@ -1,5 +1,15 @@
 # Sistema de Gestão Hospitalar
 
+#Stack Utilizada
+- Spring Boot
+- Swagger
+- MongoDB
+- GoogleAPI
+- Mockito
+- Junit
+- Testes TDD
+- 
+
 ## Objetivo
 
 O objetivo do projeto é criar uma API para organizar um sistema público de saúde.

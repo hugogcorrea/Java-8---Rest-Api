@@ -8,7 +8,6 @@
 - Mockito
 - Junit
 - Testes TDD
-- 
 
 ## Objetivo
 

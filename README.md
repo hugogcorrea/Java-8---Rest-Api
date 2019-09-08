@@ -1,6 +1,6 @@
 # Sistema de Gestão Hospitalar
 
-#Stack Utilizada
+# Stack Utilizada
 - Spring Boot
 - Swagger
 - MongoDB

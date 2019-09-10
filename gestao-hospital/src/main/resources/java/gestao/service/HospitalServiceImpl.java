@@ -26,7 +26,7 @@ import gestao.repositories.HospitalRepository;
 @EnableFeignClients
 public class HospitalServiceImpl implements HospitalService {
 
-	private static final String KEY = "AIzaSyAczcT1dO-iPGi273Mu3fr9uxJoUgArfyI";
+	private static final String KEY = "#YOUR_KEY#";
 
 	private static int MIN_LEITOS_DISPONIVEIS = 0;
 	private static int QTD_MIN_PRODUTOS = 4;
